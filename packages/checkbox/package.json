@@ -1,0 +1,13 @@
+{
+  "name": "@app/checkbox",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "jsnext:main": "dist/index.es.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "@types/react": "^16.7.18",
+    "react": "^16.7.0",
+    "tslib": "^1.9.3"
+  }
+}

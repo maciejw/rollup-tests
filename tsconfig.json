@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "noEmit": true,
+    "jsx": "react",
+    "checkJs": true,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "strict": true,
+    "importHelpers": true,
+    "target": "es5"
+  },
+  "exclude": ["packages/**/dist/*.js"]
+}
